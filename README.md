@@ -1,5 +1,9 @@
-# A first-level heading
+<h1>
+# This is an `<h1>` header, which is the largest
 
+## This is an `<h2>` header
+
+###### This is an `<h6>` header, which is the smallest
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -11,11 +15,11 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-</header>
+</h1>
 
 <!--
   <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
+  Choose 3-5 steps for your course
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
