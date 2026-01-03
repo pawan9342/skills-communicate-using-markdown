@@ -1,4 +1,4 @@
-<header>
+# A first-level heading
 
 <!--
   <<< Author notes: Course header >>>
